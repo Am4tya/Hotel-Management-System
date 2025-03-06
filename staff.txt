@@ -1,0 +1,5 @@
+Name                          Username       Password           Date of Birth  Gender    Email                         Phone          Date Registered     Role      Status    
+Bishwash Bhattarai            bishwash       bishwash@123       09/11/2003     Male      bishwashb@gmail.com           9842378901     22/11/2024          Staff     Active    
+Dipen Chapai                  dipen          dipen@12           11/02/2003     Male      dipen@gmail.com               9843560914     22/11/2024          Staff 	Inactive  
+Shail Raz Amatya              shail          anatya@34          12/12/2003     Male      shailraz@gmail.com            9847801367     22/11/2024          Staff     Active    
+Pramish Pahari                pramish        paramish@123       11/12/2004     Male      pramish@gmail.com             9845671903     22/11/2024          Staff     Active    

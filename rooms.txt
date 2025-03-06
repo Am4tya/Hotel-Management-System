@@ -1,0 +1,6 @@
+RoomID  RoomType    RoomRate   Status        Capacity
+
+101     Deluxe      1500.00    Available     2       
+102     Standard    1000.00    Available     2       
+103     Suite       2500.00    Available     4       
+104     Standard    1000.00    Available     2       

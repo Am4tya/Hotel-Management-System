@@ -1,0 +1,4 @@
+Name                          Username       Password           Date of Birth  Gender    Email                         Phone          Date Registered     Role      Status    
+Bishwash Bhattarai            bishwash       bishwash@123       12/12/2002     Male      bishwas@gmail.com             9845019002     22/11/2024          Customer	Inactive  
+Dipen Chapai                  dipen          dip@1231290831     09/02/2010     Female    chapai@123gmail.com           9846720917     24/11/2024          Customer  Active    
+Shail Raj Amataya             amt            amt@123567         5/5/2004       Male      shail@gmail.com               9804891074     5/12/2024           Customer  Active    
